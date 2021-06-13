@@ -6,7 +6,7 @@ Go for it! 365 commit per year
 
 ### Social media
 twitter: [@takumaru_2222](https://twitter.com/takumaru_2222)<br>
-bitbucket: [takuma-ru](https://bitbucket.org/takuma-ru/)
+bitbucket: [takuma-ru](https://bitbucket.org/takuma-ru/)<br>
 GooglePlay: [takuma-ru](https://play.google.com/store/apps/dev?id=7473198602481823619)
 
 ### What I'm good at.
