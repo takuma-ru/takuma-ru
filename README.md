@@ -1,4 +1,4 @@
-# takuma-ru
+# takumaru's profile
 
 ### Social media
 twitter: [@takumaru_2222](https://twitter.com/takumaru_2222)<br>
