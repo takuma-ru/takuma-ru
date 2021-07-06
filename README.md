@@ -15,3 +15,5 @@ Details: [nekoo-homepage](https://nekoo-homepage.vercel.app/)<br>
   ┗ JavaScript, html, css, TypeScript(studying)<br>
 - Game Development (Please look [bitbucket](https://bitbucket.org/takuma-ru/))<br>
   ┗ C#, Unity<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takuma-ru&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
