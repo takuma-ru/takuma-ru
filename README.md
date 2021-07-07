@@ -1,9 +1,9 @@
 # takuma-ru's Profile
 
 ### Aspiration
-~~目指せ年間365コミット！~~<br>
-目指せ年間**438**コミット！(以前の1.2倍)<br>
-Go for it! 365 commit per year
+- [x] 目指せ年間365コミット！
+- [ ] 目指せ年間**438**コミット！(X1.2)
+- [ ] 目指せ年間**547**コミット！(X1.5)
 
 ### Social media
 twitter: [@takumaru_2222](https://twitter.com/takumaru_2222)<br>
