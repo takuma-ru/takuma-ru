@@ -13,12 +13,12 @@ GooglePlay: [takuma-ru](https://play.google.com/store/apps/dev?id=74731986024818
 ## Skills
 | lang |  |
 | -- | -- |
+| C# | Unity |
 | JavaScript | Vue.js・Nuxt.js・React・Next.js |
 | TypeScript | Vue.js・Nuxt.js |
 | HTML・CSS | Vue.js・Nuxt.js・React・Next.js |
-| C# | Unity |
 | Python | Machine Learning(currently studying)・Bot |
-| C++ |  |
+| C++ | openCV... |
 | Go | API(forgot haha) |
 
 ## What I'm good at.
