@@ -19,7 +19,7 @@ GooglePlay: [takuma-ru](https://play.google.com/store/apps/dev?id=74731986024818
 | HTML・CSS | Vue.js・Nuxt.js・React・Next.js |
 | Python | Machine Learning(currently studying)・Bot |
 | C++ | openCV... |
-| Go | API(forgot haha) |
+| Go | Reviewing |
 
 ## What I'm good at.
 Details: [nekoo-homepage](https://nekoo-homepage.vercel.app/)<br>
