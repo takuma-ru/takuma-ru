@@ -7,9 +7,10 @@
 - [ ] 目指せ年間**730**コミット！(x2.0)
 
 ## Active Repository
-- [CHISK](https://github.com/takuma-ru/taskMGT)<br>
-- [Fascino](https://github.com/takuma-ru/Fascino)<br>
-- [nuxt_firebase_tutorial](https://github.com/takuma-ru/nuxt_firebase_tutorial)
+- [CHISK](https://github.com/takuma-ru/taskMGT)：Vue.js<br>
+- [Fascino](https://github.com/takuma-ru/Fascino)：Nuxt.js<br>
+- [MyHomePage](https://github.com/takuma-ru/svelte_MyHomePage)：Svelte<br>
+- [leacos](https://github.com/takuma-ru/leacos)：Nuxt.js
 
 ## Social Media
 twitter: [@takumaru_2222](https://twitter.com/takumaru_2222)<br>
