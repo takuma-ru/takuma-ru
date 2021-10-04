@@ -29,7 +29,7 @@ GooglePlay: [takuma-ru](https://play.google.com/store/apps/dev?id=74731986024818
 | Go | API(Reviewing) |
 
 ## What I'm good at.
-Details: [nekoo-homepage](https://nekoo-homepage.vercel.app/)<br>
+Details: [takumaru-homepage](https://takumaru-homepage.vercel.app/)<br>
 - Web Application Development (Vue.js, Nuxt.js, I can also do a little bit of Next.js.)<br>
   ┗ JavaScript, html, css, TypeScript<br>
 - Game Development (Please look [bitbucket](https://bitbucket.org/takuma-ru/))<br>
