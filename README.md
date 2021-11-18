@@ -10,7 +10,7 @@
 - [CHISK](https://github.com/takuma-ru/taskMGT)：Vue.js<br>
 - [Fascino](https://github.com/takuma-ru/Fascino)：Nuxt.js<br>
 - [MyHomePage](https://github.com/takuma-ru/svelte_MyHomePage)：Svelte<br>
-- [leacos](https://github.com/takuma-ru/leacos)：Nuxt.js
+- [washoku](https://github.com/takuma-ru/washoku)：Flutter
 
 ## Social Media
 twitter: [@takumaru_2222](https://twitter.com/takumaru_2222)<br>
@@ -27,6 +27,7 @@ GooglePlay: [takuma-ru](https://play.google.com/store/apps/dev?id=74731986024818
 | Python | Machine Learning(currently studying)・Bot |
 | C++ | openCV... |
 | Go | API(Reviewing) |
+| Dart | Flutter(Currently learning) |
 
 ## What I'm good at.
 Details: [takumaru-homepage](https://takumaru-homepage.vercel.app/)<br>
