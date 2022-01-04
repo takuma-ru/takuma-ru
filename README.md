@@ -1,9 +1,9 @@
 # takuma-ru's Profile
 
-## Aspiration
-- [x] 目指せ年間365コミット！
-- [x] 目指せ年間**435**コミット！(x1.2)
-- [x] 目指せ年間**545**コミット！(x1.5)
+## Aspiration 2022
+- [ ] 目指せ年間365コミット！
+- [ ] 目指せ年間**435**コミット！(x1.2)
+- [ ] 目指せ年間**545**コミット！(x1.5) <= last year
 - [ ] 目指せ年間**730**コミット！(x2.0)
 
 ## Active Repository
@@ -20,14 +20,19 @@ GooglePlay: [takuma-ru](https://play.google.com/store/apps/dev?id=74731986024818
 ## Skills
 | lang |  |
 | -- | -- |
+||
+| **Learned** |
 | C# | Unity |
 | JavaScript | Vue.js・Nuxt.js・React・Next.js |
 | TypeScript | Vue.js・Nuxt.js(CompositionAPI) |
 | HTML・CSS | Vue.js・Nuxt.js・React・Next.js |
-| Python | Machine Learning(currently studying)・Bot |
+| Python | MachineLearning(currently studying)・Bot |
 | C++ | openCV... |
+||
+| **Learning** |
 | Go | API(Reviewing) |
 | Dart | Flutter(Currently learning) |
+| TypeScript | ReactNative・ionic(vue) |
 
 ## What I'm good at.
 Details: [takumaru-homepage](https://takumaru-homepage.vercel.app/)<br>
