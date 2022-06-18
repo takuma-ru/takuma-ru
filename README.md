@@ -1,6 +1,7 @@
 # takuma-ru's Profile
 
 ## Aspiration 2022
+now: 385commits
 - [x] 目指せ年間365コミット！
 - [ ] 目指せ年間**435**コミット！(x1.2)
 - [ ] 目指せ年間**545**コミット！(x1.5) <= last year
