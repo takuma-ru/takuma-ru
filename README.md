@@ -22,7 +22,6 @@ GooglePlay: [takuma-ru](https://play.google.com/store/apps/dev?id=74731986024818
 | Unity | C# |
 | Flutter | Dart |
 | Python | ML・Bot |
-| **Learned** |
 | C# | Unity |
 | Python | MachineLearning(currently studying)・Bot |
 | C++ | openCV... |
