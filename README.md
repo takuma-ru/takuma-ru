@@ -8,9 +8,9 @@ now: 385commits
 - [ ] 目指せ年間**730**コミット！(x2.0)
 
 ## Social Media
-twitter: [@takumaru_2222](https://twitter.com/takumaru_2222)<br>
-bitbucket: [takuma-ru](https://bitbucket.org/takuma-ru/)<br>
-GooglePlay: [takuma-ru](https://play.google.com/store/apps/dev?id=7473198602481823619)
+[![twitter](https://img.shields.io/badge/Twitter-takumaru_2222-1DA1F2.svg?style=for-the-badge)](https://twitter.com/takumaru_2222)
+[![bitbucket](https://img.shields.io/badge/Bitbucket-takuma–ru-1A74ED.svg?style=for-the-badge)](https://bitbucket.org/takuma-ru)
+[![GooglePlay](https://img.shields.io/badge/GooglePlay-takuma–ru-DB4437.svg?style=for-the-badge)](https://play.google.com/store/apps/dev?id=7473198602481823619)
 
 ## Skills
 | Skill | Description |
@@ -28,10 +28,16 @@ GooglePlay: [takuma-ru](https://play.google.com/store/apps/dev?id=74731986024818
 
 ## What I'm good at.
 Details: [takumaru-homepage](https://takumaru-homepage.vercel.app/)<br>
-- Web Application Development (Vue.js, Nuxt.js, I can also do a little bit of Next.js.)<br>
-  ┗ JavaScript, html, css, TypeScript<br>
-- Game Development (Please look [bitbucket](https://bitbucket.org/takuma-ru/))<br>
-  ┗ C#, Unity<br>
+<br>
+**Web Application Development (Vue.js, Nuxt.js, I can also do a little bit of Next.js.)**<br>
+- TypeScript<br>
+- html<br>
+- scss
+<br>
+
+**Game Development (Please look [bitbucket](https://bitbucket.org/takuma-ru/))**<br>
+- C#<br>
+- Unity<br>
 
 ## Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takuma-ru&count_private=true&show_icons=true&include_all_commits=false&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
