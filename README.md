@@ -7,33 +7,25 @@ now: 385commits
 - [ ] 目指せ年間**545**コミット！(x1.5) <= last year
 - [ ] 目指せ年間**730**コミット！(x2.0)
 
-## Active Repository
-- [CHISK](https://github.com/takuma-ru/taskMGT)：Vue.js<br>
-- [Fascino](https://github.com/takuma-ru/Fascino)：Nuxt.js<br>
-- [MyHomePage](https://github.com/takuma-ru/svelte_MyHomePage)：Svelte<br>
-- [washoku](https://github.com/takuma-ru/washoku)：Flutter
-
 ## Social Media
 twitter: [@takumaru_2222](https://twitter.com/takumaru_2222)<br>
 bitbucket: [takuma-ru](https://bitbucket.org/takuma-ru/)<br>
 GooglePlay: [takuma-ru](https://play.google.com/store/apps/dev?id=7473198602481823619)
 
 ## Skills
-| lang |  |
+| Skill | Description |
 | -- | -- |
-||
+| Vue.js | JavaScript・TypeScript・Vue3・Composition API |
+| Nuxt.js | JavaScript・TypeScript・Composition API |
+| React | JavaScript・TypeScript |
+| Next.js | JavaScript・TypeScript |
+| Unity | C# |
+| Flutter | Dart |
+| Python | ML・Bot |
 | **Learned** |
 | C# | Unity |
-| JavaScript | Vue.js・Nuxt.js・React・Next.js |
-| TypeScript | Vue.js・Nuxt.js(CompositionAPI) |
-| HTML・CSS | Vue.js・Nuxt.js・React・Next.js |
 | Python | MachineLearning(currently studying)・Bot |
 | C++ | openCV... |
-||
-| **Learning** |
-| Go | API(Reviewing) |
-| Dart | Flutter(Currently learning) |
-| TypeScript | ReactNative・ionic(vue) |
 
 ## What I'm good at.
 Details: [takumaru-homepage](https://takumaru-homepage.vercel.app/)<br>
