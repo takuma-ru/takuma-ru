@@ -8,9 +8,9 @@
 - [ ] 目指せ年間**730**コミット！(x2.0)
 
 ## Social Media
-[![twitter](https://img.shields.io/badge/Twitter-takumaru_2222-1DA1F2.svg?style=for-the-badge)](https://twitter.com/takumaru_2222)
-[![bitbucket](https://img.shields.io/badge/Bitbucket-takuma–ru-1A74ED.svg?style=for-the-badge)](https://bitbucket.org/takuma-ru)
-[![GooglePlay](https://img.shields.io/badge/GooglePlay-takuma–ru-DB4437.svg?style=for-the-badge)](https://play.google.com/store/apps/dev?id=7473198602481823619)
+![twitter](https://img.shields.io/twitter/url?label=ID%3A%20taskmaru_2222&style=social&url=https%3A%2F%2Ftwitter.com%2Ftakumaru_2222)
+![bitbucket](https://img.shields.io/twitter/url?label=ID%3A%20takuma-ru&logo=bitbucket&style=social&url=https%3A%2F%2Fbitbucket.org%2Ftakuma-ru)
+![googlePlay](https://img.shields.io/twitter/url?label=ID%3A%20takuma-ru&logo=googleplay&logoColor=%23DB4437&style=social&url=https%3A%2F%2Fbitbucket.org%2Ftakuma-ru)
 
 ## Skills
 | Skill | Description |
