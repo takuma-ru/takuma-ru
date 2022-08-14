@@ -42,5 +42,5 @@ Details: [takumaru-homepage](https://takumaru-homepage.vercel.app/)<br>
 ## Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takuma-ru&count_private=true&show_icons=true&include_all_commits=false&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takuma-ru&count_private=true&langs_count=5&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=takuma-ru&theme=onedark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=takuma-ru&theme=flat&column=7&no-frame=true
 )](https://github.com/ryo-ma/github-profile-trophy)
