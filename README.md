@@ -1,14 +1,16 @@
 # takuma-ru's Profile
 
 ## Aspiration 2022
-#### NOW：793 Commits
+<span>NOW：　804 Commits</span>
 - [x] 目指せ年間365コミット！
 - [x] 目指せ年間**435**コミット！(x1.2)
 - [x] 目指せ年間**545**コミット！(x1.5) <= last year
 - [x] 目指せ年間**730**コミット！(x2.0)
 - [x] 目指せ年間**766**コミット！(x2.1)
-- [ ] 目指せ年間**803**コミット！(x2.2)
+- [x] 目指せ年間**803**コミット！(x2.2)
 - [ ] 目指せ年間**839**コミット！(x2.3)
+- [ ] 目指せ年間**876**コミット！(x2.4)
+- [ ] 目指せ年間**912**コミット！(x2.5)
 
 ## Social Media
 ![twitter](https://img.shields.io/twitter/url?label=ID%3A%20taskmaru_2222&style=social&url=https%3A%2F%2Ftwitter.com%2Ftakumaru_2222)
