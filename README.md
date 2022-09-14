@@ -1,21 +1,32 @@
 # takuma-ru's Profile
 
-## Aspiration 2022
-#### Present : 951 Commits
-- [x] **365** Commits　[ x1 ]
-- [x] **435** Commits　[ x1.2 ]
-- [x] **545** Commits　[ x1.5 ] << last year
-- [x] **730** Commits　[ x2.0 ]
-- [x] **766** Commits　[ x2.1 ]
-- [x] **803** Commits　[ x2.2 ]
-- [x] **839** Commits　[ x2.3 ]
-- [x] **876** Commits　[ x2.4 ]
-- [x] **912** Commits　[ x2.5 ]
-- [x] **949** Commits　[ x2.6 ]
-- [ ] **985** Commits　[ x2.7 ]
-- [ ] **1022** Commits　[ x2.8 ]
-- [ ] **1058** Commits　[ x2.9 ]
-- [ ] **1095** Commits　[ x3.0 ]
+## Binding target 2022
+#### Present : 952 Commits　[ x2.6 ]
+<details>
+  <summary>
+    Binding target list
+  </summary>
+  <span>
+
+|  | commits | magnification |
+| -- | -- | -- |
+| :ballot_box_with_check: | 365 | 1 |
+| :ballot_box_with_check: | 435 | 1.2 |
+| :ballot_box_with_check: | 545 | 1.5 |
+| :ballot_box_with_check: | 730 | 2.0 |
+| :ballot_box_with_check: | 766 | 2.1 |
+| :ballot_box_with_check: | 803 | 2.2 |
+| :ballot_box_with_check: | 839 | 2.3 |
+| :ballot_box_with_check: | 876 | 2.4 |
+| :ballot_box_with_check: | 912 | 2.5 |
+| :ballot_box_with_check: | 949 | 2.6 |
+| :black_large_square: | 985 | 2.7 |
+| :black_large_square: | 1022 | 2.8 |
+| :black_large_square: | 1058 | 2.9 |
+| :black_large_square: | 1095 | 3.0 |
+
+  </span>
+</details>
 
 
 ## Social Media
