@@ -1,5 +1,8 @@
 # takuma-ru's Profile
 
+## Now development Profile card [test]
+[![goal-card](https://us-central1-profile-progress-on-my-goals.cloudfunctions.net/api)](https://github.com/takuma-ru/github-profile-progress-on-my-goals)
+
 ## Binding target 2022
 #### Present : 952 Commits　[ x2.6 ]
 <details>
