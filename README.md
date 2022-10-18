@@ -4,7 +4,7 @@
 [![goal-card](https://us-central1-profile-progress-on-my-goals.cloudfunctions.net/api)](https://github.com/takuma-ru/github-profile-progress-on-my-goals)
 
 ## Binding target 2022
-#### Present : 1020 Commits　[ x2.7 ]
+#### Present : 1076 Commits　[ x2.7 ]
 <details>
   <summary>
     Binding target list
@@ -24,8 +24,8 @@
 | :ballot_box_with_check: | 912 | 2.5 |
 | :ballot_box_with_check: | 949 | 2.6 |
 | :ballot_box_with_check: | 985 | 2.7 |
-| :black_large_square: | 1022 | 2.8 |
-| :black_large_square: | 1058 | 2.9 |
+| :ballot_box_with_check: | 1022 | 2.8 |
+| :ballot_box_with_check: | 1058 | 2.9 |
 | :black_large_square: | 1095 | 3.0 |
 
   </span>
