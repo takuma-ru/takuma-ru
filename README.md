@@ -47,12 +47,10 @@ Details: [takumaru-homepage](https://takumaru-homepage.takumaru.dev)<br>
 - **Web Application Development**<br>
   <img src="https://nuxtjs.org/design-kit/colored-logo.svg" alt="nuxt" width="40" height="40"/>
   <img src="https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg" alt="nuxt" width="40" height="40"/>
-  <img src="https://thumbs.bfldr.com/at/6p8r8s5n377jsvrznvgfb4r?expiry=1669120486&fit=bounds&height=800&sig=NDU5MzkwYmU4NmQ2OTc0MmNkNjIyYTg1MjFlODA3YmJhMGZlOGYzNQ%3D%3D&width=1100" alt="unity" width="36" height="40"/>
 <br>
 
-**Game Development (Please look [bitbucket](https://bitbucket.org/takuma-ru/))**<br>
-- C#<br>
-- Unity<br>
+- **Game Development (Please look [bitbucket](https://bitbucket.org/takuma-ru/))**<br>
+  <img src="https://thumbs.bfldr.com/at/6p8r8s5n377jsvrznvgfb4r?expiry=1669120486&fit=bounds&height=800&sig=NDU5MzkwYmU4NmQ2OTc0MmNkNjIyYTg1MjFlODA3YmJhMGZlOGYzNQ%3D%3D&width=1100" alt="unity" width="36" height="40"/>
 
 ## Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takuma-ru&count_private=true&show_icons=true&include_all_commits=false&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
