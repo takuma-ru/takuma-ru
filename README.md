@@ -1,7 +1,7 @@
 # 🐈 Hi! I'm takuma-ru
 
-## Now development Profile card [test]
-<!-- [![goal-card](https://us-central1-profile-progress-on-my-goals.cloudfunctions.net/api)](https://github.com/takuma-ru/github-profile-progress-on-my-goals) -->
+<!-- ## Now development Profile card [test]
+[![goal-card](https://us-central1-profile-progress-on-my-goals.cloudfunctions.net/api)](https://github.com/takuma-ru/github-profile-progress-on-my-goals) -->
 
 ## Binding target 2022
 #### Present : `1255` Commits（**x3.4**）
