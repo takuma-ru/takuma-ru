@@ -4,7 +4,7 @@
 [![goal-card](https://us-central1-profile-progress-on-my-goals.cloudfunctions.net/api)](https://github.com/takuma-ru/github-profile-progress-on-my-goals) -->
 
 ## Binding target 2022
-#### Present : `1320` Commits（**x3.6**）
+#### Present : `1322 / 365` Commits（**x3.6**）
 <details>
   <summary>
     Binding target list
