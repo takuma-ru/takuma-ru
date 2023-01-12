@@ -8,7 +8,8 @@
 ![bitbucket](https://img.shields.io/twitter/url?label=ID%3A%20takuma-ru&logo=bitbucket&style=social&url=https%3A%2F%2Fbitbucket.org%2Ftakuma-ru)
 ![googlePlay](https://img.shields.io/twitter/url?label=ID%3A%20takuma-ru&logo=googleplay&logoColor=%23DB4437&style=social&url=https%3A%2F%2Fbitbucket.org%2Ftakuma-ru)
 
-## Skills[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,codepen,css,express,figma,firebase,gcp,git,github,html,idea,js,nextjs,nodejs,nuxtjs,pug,py,raspberrypi,react,rollupjs,sass,supabase,svelte,svg,ts,unity,vite,vue,webpack)](https://skillicons.dev)
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,codepen,css,express,figma,firebase,gcp,git,github,html,idea,js,nextjs,nodejs,nuxtjs,pug,py,raspberrypi,react,rollupjs,sass,supabase,svelte,svg,ts,unity,vite,vue,webpack)](https://skillicons.dev)
 
 ## While studying
 [![My Skills](https://skillicons.dev/icons?i=dart,deno,flutter,go,rust)](https://skillicons.dev)
