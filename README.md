@@ -1,4 +1,4 @@
-# 🐈 Hi! I'm takuma-ru
+<img src="https://github.com/takuma-ru/takuma-ru/assets/49429291/d70eccb0-4dcd-4662-bd9b-e444c1baa92d" width="100%" />
 
 <!-- ## Now development Profile card [test]
 [![goal-card](https://us-central1-profile-progress-on-my-goals.cloudfunctions.net/api)](https://github.com/takuma-ru/github-profile-progress-on-my-goals) -->
