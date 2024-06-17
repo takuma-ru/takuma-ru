@@ -4,7 +4,8 @@
 [![goal-card](https://us-central1-profile-progress-on-my-goals.cloudfunctions.net/api)](https://github.com/takuma-ru/github-profile-progress-on-my-goals) -->
 
 ## Status
-[![Anurag's GitHub stats](https://takuma-ru-github-readme-stats-takuma-ru.vercel.app/api?username=takuma-ru&count_private=true&show_icons=true&include_all_commits=true&line_height=25&card_width=100%)](https://github.com/anuraghazra/github-readme-stats)
+[![takumaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=takuma-ru&count_private=true&show_icons=true&include_all_commits=true&line_height=25&card_width=100%)](https://github.com/anuraghazra/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=takuma-ru&theme=flat&column=7&no-frame=true&row=1
 )](https://github.com/ryo-ma/github-profile-trophy)
 
