@@ -3,7 +3,7 @@
 <!-- ## Now development Profile card [test]
 [![goal-card](https://us-central1-profile-progress-on-my-goals.cloudfunctions.net/api)](https://github.com/takuma-ru/github-profile-progress-on-my-goals) -->
 
-[![takumaru's GitHub stats](https://takuma-ru-github-readme-stats.vercel.app/api?username=takuma-ru&border_radius=16&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![takumaru's GitHub stats](https://takuma-ru-github-readme-stats.vercel.app/api?username=takuma-ru&border_radius=16&count_private=true&hide_title=true&ring_color=00BC00&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=takuma-ru&theme=flat&column=7&no-frame=true&row=1
